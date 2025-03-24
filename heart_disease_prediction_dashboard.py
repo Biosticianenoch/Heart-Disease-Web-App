@@ -9,10 +9,6 @@ Original file is located at
 Build Web App for Heart Disease with Streamlit
 """
 
-## Install required modules
-!pip install pyjanitor
-!pip install statsmodels
-
 ## Importing the necessary libraries
 import pandas as pd
 import numpy as np
